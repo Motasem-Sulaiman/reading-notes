@@ -1,6 +1,10 @@
 
 # Code 401 - Advanced JavaScript 
 
+1. [Reading Class - 1](#class-1-reading-notes)
+<br>
+2. [Reading Class - 2](#class-2-reading-notes)
+
 ## Class 1 Reading Notes:
 
 ### 1. How would you describe Node to a non-technical friend?
