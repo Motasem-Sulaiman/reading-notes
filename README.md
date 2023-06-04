@@ -1,5 +1,5 @@
 
-# Code 401 - Advanced JavaScript - Reading Notes
+# Code 401 - Advanced JavaScript 
 
 ## Class 1 Reading Notes:
 
