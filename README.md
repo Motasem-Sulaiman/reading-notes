@@ -3,6 +3,7 @@
 
 1. [Reading Class - 1](#class-1-reading-notes)
 <br>
+
 2. [Reading Class - 2](#class-2-reading-notes)
 
 ## Class 1 Reading Notes:
@@ -99,3 +100,11 @@ Continuous Deployment takes automation a step further. In addition to the contin
 
 GitHub is a platform where developers store and manage their code. It integrates with other tools to automate processes like testing and deploying software changes. It serves as a central hub for collaboration and ensures that code is efficiently delivered or deployed as part of Continuous Delivery and Continuous Deployment processes.
 
+
+### What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+
+Time Complexity Big(o)
+
+### How can we ensure that we’ll avoid an infinite recursive call stack? 
+
+Base Case enure that your recursive function has a base case , a base case represents the condition under which the recursive calls should stop and the function should return a result
