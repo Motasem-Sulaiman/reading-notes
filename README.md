@@ -10,4 +10,4 @@
 |[ Reading Class 2](./reading2.md) |  
 | [Data Structures and Algorithms](./dataStructre.md) | 
 | [express REST API](./express-REST-API.md) | 
-| [Linked List](./express-REST-API.md) | 
+| [Linked List](./linkedList.md) | 
