@@ -1,6 +1,6 @@
 ## Explain to a non-technical friend how you would safely hash and store a password.
 
-when you signup and enter your password with using hash it will not be sent to the database as it is it will be encrypted by generating a random big number of letters and numbers so no one will know what is your password 
+when you signup and enter your password , with using hash it will not be sent to the database as it is it will be encrypted by generating a random characters of letters and numbers so no one will know what is your password 
 
 ## What is Bcrypt?
 Bcrypt is a widely used cryptographic hashing algorithm designed for securely storing passwords
