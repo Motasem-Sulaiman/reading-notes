@@ -13,3 +13,4 @@
 | [Linked List](./linkedList.md) | 
 | [Data Modeling](./dataModeling.md) | 
 | [Authentication](./authentication.md) | 
+| [Bearer Authorization](./bearerAuthorization.md) | 
