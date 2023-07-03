@@ -11,4 +11,4 @@
 
  ## Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js.
 
- n an Event Driven system, events are like signals that something has happened. These events can be various things, such as receiving a request from a client, reading data from a database, or even a timer ticking. When an event occurs, instead of waiting and blocking the program until it's completed, Node.js registers a callback function to handle that event and continues to listen for other events simultaneously.
+ events are like signals that something has happened. These events can be various things, such as receiving a request from a client, reading data from a database, or even a timer ticking. When an event occurs, instead of waiting and blocking the program until it's completed, Node.js registers a callback function to handle that event and continues to listen for other events simultaneously.
