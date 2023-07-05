@@ -18,3 +18,4 @@
 | [Auth Ideas](./authproject.md) | 
 | [Stacks and Queues](./stacksAndQueues.md) | 
 | [Event Driven Applications](./EventDrivenApplications.md) | 
+| [Socket.io](./socket.io.md) | 
