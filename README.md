@@ -20,3 +20,4 @@
 | [Event Driven Applications](./EventDrivenApplications.md) | 
 | [Socket.io](./socket.io.md) | 
 | [messageQueue](./messageQueue.md) | 
+| [messageQueue](./EventDrivenApplicationsIdeas.md) | 
