@@ -17,22 +17,19 @@ SNS:
 
 
 ## Describe how to use SQS and SNS in a “fanout” pattern.
-- Create an SNS Topic:
-- Subscribe SQS Queues to the SNS Topic:
-- Publish Messages to the SNS Topic:
-- Consuming Messages from SQS Queues:
+- Create an SNS Topic
+- Subscribe SQS Queues to the SNS Topic
+- Publish Messages to the SNS Topic
+- Consuming Messages from SQS Queues
 
 
 ## Explain how “push notifications” work, using SNS.
-- Setting up SNS Topic:
-- Subscribing Endpoints:
-- Sending Push Notifications:
-- Message Delivery:
-- Handling Notifications on Endpoints:
+ Setting up SNS Topic
+ Subscribing Endpoints
+ Sending Push Notifications
+ Message Delivery
+ Handling Notifications on Endpoints
 
 
 ## How might a large scale, distributed application make use of a Queue system like SQS?
-- Asynchronous Communication
-- Load Leveling and Backpressure
-- Microservices Communication
-- Scalability and Auto-scaling
+By using SQS in a large-scale, distributed application, developers can build more robust, scalable, and loosely coupled systems. It helps in managing complexities and challenges associated with distributed architectures, ensuring that components can operate independently and efficiently.
