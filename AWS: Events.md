@@ -25,10 +25,16 @@ SNS:
 
 ## Explain how “push notifications” work, using SNS.
  Setting up SNS Topic
+  <br>
  Subscribing Endpoints
+  <br>
  Sending Push Notifications
+  <br>
  Message Delivery
+  <br>
  Handling Notifications on Endpoints
+  <br>
+
 
 
 ## How might a large scale, distributed application make use of a Queue system like SQS?
