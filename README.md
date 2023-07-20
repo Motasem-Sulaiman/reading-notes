@@ -24,3 +24,5 @@
 | [Trees](./trees.md) | 
 | [AWS](./aws.md) | 
 | [AWS: S3 and Lambda](./AWS:%20S3%20and%20Lambda.md) | 
+| [AWS: API, Dynamo and Lambda](./AWS:%20API,%20Dynamo%20and%20Lambda.md) | 
+| [AWS: Events](./AWS:%20Events.md) | 
