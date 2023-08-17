@@ -28,3 +28,4 @@
 | [AWS: Events](./AWS:%20Events.md) | 
 | [React](./react.md) | 
 | [useState() Hook](./useState().md) | 
+| [useEffect() Hook](./useEffect().md) | 
