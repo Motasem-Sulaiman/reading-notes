@@ -10,7 +10,8 @@ Managing state with reducers is slightly different from directly setting state. 
 
 reducers can “reduce” the amount of code inside your component, they are actually named after the reduce() operation that you can perform on arrays.
 
-The reduce() operation lets you take an array and “accumulate” a single value out of many
+The reduce() operation lets you take an array and “accumulate” a single value out of many.
+
 The function you pass to reduce is known as a “reducer”. It takes the result so far and the current item, then it returns the next result. React reducers are an example of the same idea: they take the state so far and the action, and return the next state. In this way, they accumulate actions over time into state.
 
 ## When should you switch from useState to useReducer?
