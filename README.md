@@ -29,3 +29,4 @@
 | [React](./react.md) | 
 | [useState() Hook](./useState().md) | 
 | [useEffect() Hook](./useEffect().md) | 
+| [Advanced State with Reducers](./Advanced%20State%20with%20Reducers.md) | 
