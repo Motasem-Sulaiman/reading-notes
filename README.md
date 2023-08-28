@@ -32,3 +32,4 @@
 | [Advanced State with Reducers](./Advanced%20State%20with%20Reducers.md) | 
 | [HashTable](./Hashtable.md) | 
 | [Context API](./ContextApi.md) | 
+| [Context API - Behaviors](./Context%20API%20-%20Behaviors.md) | 
