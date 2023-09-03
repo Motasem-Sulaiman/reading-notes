@@ -33,3 +33,4 @@
 | [HashTable](./Hashtable.md) | 
 | [Context API](./ContextApi.md) | 
 | [Context API - Behaviors](./Context%20API%20-%20Behaviors.md) | 
+| [Login and Auth](./Login%20and%20Auth.md) | 
