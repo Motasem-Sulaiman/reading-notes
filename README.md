@@ -36,3 +36,4 @@
 | [Login and Auth](./Login%20and%20Auth.md) | 
 | [API Integration](./API%20Integration.md) | 
 | [Application State with Redux](./Application%20State%20with%20Redux.md) | 
+| [graphs](./graphs.md) | 
