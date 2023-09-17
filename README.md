@@ -39,3 +39,4 @@
 | [graphs](./graphs.md) | 
 | [Redux - Combined Reducers](./Redux%20-%20Combined%20Reducers.md) | 
 | [Redux - Asynchronous Actions](./Redux%20-%20Asynchronous%20Actions.md) | 
+| [Redux - Additional Topics](./Redux%20-%20Additional%20Topics.md) | 
