@@ -22,5 +22,19 @@ MobX makes state management simple again by addressing the root issue: it makes 
 
 
 ## How would we build a reactive user interface?
+- Identify the parts of your UI that need to be reactive.
 
+- Use MobX to create and manage your application's state, defining observables and actions to update that state.
+
+- React to changes in your observables by using MobX reactions (e.g., autorun or observer).
+
+- Implement user interactions that trigger actions to modify observables.
+
+- Define your UI components to render based on the state stored in MobX observables.
+
+- Test your reactive UI, ensuring that changes to state result in the expected updates to your UI components.
+
+- Optimize performance by using memoization and only updating the UI when necessary.
+
+- Implement error handling and real-time updates as needed.
 
